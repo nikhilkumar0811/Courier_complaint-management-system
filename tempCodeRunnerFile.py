@@ -1,0 +1,1 @@
+key=sys.argv[1]
